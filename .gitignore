@@ -1,0 +1,4 @@
+bin
+gen
+.settings
+lib/android-support-v4.jar

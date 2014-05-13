@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AviaryTutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="aviary_key">ac02ed3a32852bc4</string>
+    <string name="aviary_secret">01e0726dfdb30fda</string>
+    <string name="main_btn_editor">Editor</string>
+    <string name="main_btn_camera">Camera</string>
+
+</resources>
